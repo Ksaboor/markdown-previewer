@@ -27,6 +27,7 @@
     "@vue/eslint-config-standard": "^5.1.2",
     "babel-eslint": "^10.1.0",
     "bootstrap": "^4.3.1",
+    "brace": "^0.11.1",
     "electron": "^9.0.0",
     "electron-devtools-installer": "^3.1.0",
     "eslint": "^6.7.2",
@@ -42,7 +43,8 @@
     "sass-loader": "^8.0.0",
     "vue-cli-plugin-bootstrap-vue": "~0.6.0",
     "vue-cli-plugin-electron-builder": "~2.0.0-rc.4",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.11",
+    "vue2-ace-editor": "^0.0.15"
   },
   "eslintConfig": {
     "root": true,
